@@ -1,3 +1,14 @@
+javi:
+  name: Javi Cardenas
+  title: Software Engineer
+  url: https://linkedin.com/in/javicardenas
+  image_url: https://github.com/javi-cardenas.png
+  page: true
+  socials:
+    x: javicard99
+    linkedin: javicardenas
+    github: javi-cardenas
+
 yangshun:
   name: Yangshun Tay
   title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd

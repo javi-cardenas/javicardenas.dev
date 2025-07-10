@@ -5,7 +5,12 @@ authors: [slorber, yangshun]
 tags: [hola, docusaurus]
 ---
 
-Lorem ipsum dolor sit amet...
+# Buy a Domain
+Cloudflare has a Content Delivery Network (CDN) but there are other domain hosting services.
+
+# Docusaurus Setup
+Follow the prompts...
+`npx init docusaurus@latest my-website-name classic`
 
 <!-- truncate -->
 
