@@ -32,11 +32,13 @@ export default function Home(): ReactNode {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      // title={`${siteConfig.title}`}
+      // description="Description will go into a meta tag in <head />"
+      >
       <HomepageHeader />
       <main>
         {/* <HomepageFeatures /> */}
+        <h1>TODO - Add Docusaurus, React, and anything else used like Cloudflare and Github Pages</h1>
       </main>
     </Layout>
   );
