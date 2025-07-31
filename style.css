@@ -11,14 +11,14 @@ body {
 }
 
 h1 {
-  line-height: 1.2;
+  line-height: 1;
   font-weight: 700;
   text-align: center;
 }
 
 h2,
 h3 {
-  line-height: 1.2;
+  line-height: 1;
   font-weight: 500;
 }
 
