@@ -1,8 +1,12 @@
+/* 1rem = (your percentage) × (user's browser default)*/
+html {
+  font-size: 112.5%; /* 18px; browser default is 16px = 100%; percentage respects a user's default browser font size*/
+}
+
 body {
-  margin: 8px auto;
+  margin: 32px auto;
   max-width: 650px;
   line-height: 1.5;
-  font-size: 18px;
   color: #ddd;
   background-color: #222;
   padding: 0 10px;
@@ -11,14 +15,14 @@ body {
 }
 
 h1 {
-  line-height: 1;
+  line-height: 1.2;
   font-weight: 700;
   text-align: center;
 }
 
 h2,
 h3 {
-  line-height: 1;
+  line-height: 1.2;
   font-weight: 500;
 }
 
