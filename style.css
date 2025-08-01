@@ -1,25 +1,30 @@
+/* 1rem = (your percentage) × (user's browser default)*/
+html {
+  font-size: 112.5%; /* 18px; browser default is 16px = 100%; percentage respects a user's default browser font size*/
+}
+
 body {
-  margin: 8px auto;
-  max-width: 650px;
-  line-height: 1.5;
-  font-size: 18px;
-  color: #ddd;
-  background-color: #222;
-  padding: 0 10px;
   font-family: "Lato", sans-serif;
   font-weight: 300;
+  background-color: #202020;
+  color: #dfdfdf;
+  margin: 2rem auto;
+  max-width: 650px;
+  line-height: 1.5;
+
+  padding: 0 10px;
 }
 
 h1 {
-  line-height: 1;
   font-weight: 700;
+  line-height: 1.2;
   text-align: center;
 }
 
 h2,
 h3 {
-  line-height: 1;
   font-weight: 500;
+  line-height: 1.2;
 }
 
 footer {
@@ -28,7 +33,7 @@ footer {
 
 /* Link Colors */
 a {
-  color: #00e684;
+  color: #00e684; /* start: #00ff92; hsl(154, 100, 50), oklch(0.88, 0.22, 154) */
   text-decoration: none;
 }
 a:visited {
