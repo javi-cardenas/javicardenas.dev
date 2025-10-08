@@ -1,2 +1,3 @@
-# javicardenas.dev
-My personal website using vanilla HTML, CSS, and JS
+# Personal Website Monorepo
+
+Contains different versions of my personal website.
