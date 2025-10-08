@@ -1,6 +1,6 @@
 /* 1rem = (your percentage) × (user's browser default)*/
 html {
-  font-size: 112.5%; /* 18px; browser default is 16px = 100%; percentage respects a user's default browser font size*/
+  font-size: 112.5%; /* sets browser default to 18px; 100% = 16px */
 }
 
 body {
