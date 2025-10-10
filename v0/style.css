@@ -33,7 +33,7 @@ footer {
 
 /* Link Colors */
 a {
-  color: #00e684; /* start: #00ff92; hsl(154, 100, 50), oklch(0.88, 0.22, 154) */
+  color: #00e684;
   text-decoration: none;
 }
 a:visited {
