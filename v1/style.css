@@ -1,0 +1,46 @@
+/* 1rem = (your percentage) × (user's browser default)*/
+html {
+  font-size: 112.5%; /* sets browser default to 18px; 100% = 16px */
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+  background-color: #202020;
+  color: #dfdfdf;
+  margin: 2rem auto;
+  max-width: 650px;
+  line-height: 1.5;
+
+  padding: 0 10px;
+}
+
+h1 {
+  font-weight: 700;
+  line-height: 1.2;
+  text-align: center;
+}
+
+h2,
+h3 {
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+footer {
+  text-align: center;
+}
+
+/* Link Colors */
+a {
+  color: #00e684;
+  text-decoration: none;
+}
+a:visited {
+  color: #d41b59;
+}
+
+a:hover {
+  color: #00b8e6;
+  text-decoration: underline;
+}
