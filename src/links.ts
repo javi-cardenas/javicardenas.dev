@@ -10,6 +10,5 @@ export const mainLinks = [
 
 export const socialLinks = [
   { label: 'gh', href: 'https://github.com/javi-cardenas', ariaLabel: 'GitHub' },
-  { label: 'x', href: 'https://x.com/javicardenasdev', ariaLabel: 'X' },
   { label: 'in', href: 'https://www.linkedin.com/in/javicardenas', ariaLabel: 'LinkedIn' },
 ]
