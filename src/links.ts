@@ -1,6 +1,6 @@
 export const site = {
-  name: 'javi',
-  tagline: 'software engineer',
+  name: 'Javi Cardenas',
+  tagline: 'Software Engineer',
 }
 
 export const mainLinks = [
